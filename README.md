@@ -24,7 +24,10 @@ All set! Edit ./src/main.ts to get started.
 ```
 
 ### Post-Install:
-Once installed make sure to remove the ```.git``` to start your own repo, and change the ```package.json```, ```.gitignore``` and ```tsconfig.json``` files to better fit your project!
+Once installed make sure to:
+1. rename ```ts-term-boiler``` to your project name. 
+2. remove the ```.git``` to start your own repo.
+3. change the ```package.json```, ```.gitignore``` and ```tsconfig.json``` files to better fit your project. 
 
 ### Bug / Issue Reporting 
 Is any issues or bugs are found, please make a new branch and create a pull request.
