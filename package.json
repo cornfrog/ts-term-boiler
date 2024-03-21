@@ -4,6 +4,7 @@
   "main": "build/main.js",
   "author": "cornfrog <thecornfrog@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "clean": "rm -rf build",
     "build": "tsc",
